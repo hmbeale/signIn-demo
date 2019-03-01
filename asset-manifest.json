@@ -1,0 +1,13 @@
+{
+  "main.css": "/signin-demo/static/css/main.fc9902a8.chunk.css",
+  "main.js": "/signin-demo/static/js/main.5fa31d03.chunk.js",
+  "main.js.map": "/signin-demo/static/js/main.5fa31d03.chunk.js.map",
+  "static/js/1.a0a10cb9.chunk.js": "/signin-demo/static/js/1.a0a10cb9.chunk.js",
+  "static/js/1.a0a10cb9.chunk.js.map": "/signin-demo/static/js/1.a0a10cb9.chunk.js.map",
+  "runtime~main.js": "/signin-demo/static/js/runtime~main.b7703ba6.js",
+  "runtime~main.js.map": "/signin-demo/static/js/runtime~main.b7703ba6.js.map",
+  "static/css/main.fc9902a8.chunk.css.map": "/signin-demo/static/css/main.fc9902a8.chunk.css.map",
+  "index.html": "/signin-demo/index.html",
+  "precache-manifest.c7c4b8a5669a06e4d9b6c14051be3018.js": "/signin-demo/precache-manifest.c7c4b8a5669a06e4d9b6c14051be3018.js",
+  "service-worker.js": "/signin-demo/service-worker.js"
+}
